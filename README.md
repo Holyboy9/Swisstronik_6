@@ -12,8 +12,8 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/dante4rt/swisstronik-deploy-proxy.git
-cd swisstronik-deploy-proxy
+git clone https://github.com/Holyboy9/Swisstronik_6.git
+cd Swisstronik_6
 ```
 
 2. Run the setup script:
@@ -40,4 +40,3 @@ The `proxy.sh` script performs the following actions:
 
 ## Done!
 
-Enjoy working with Swisstronik and be sure to subscribe to [Happy Cuan Airdrop](https://t.me/HappyCuanAirdrop)!
